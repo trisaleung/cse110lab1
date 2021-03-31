@@ -3,16 +3,16 @@
 I am a second year Computer Science undergraduate from the University of California, San Diego.
 
 Click to go to individual projects:
-- [speechto.text](speechto.text)
-- [Cardiac Atlas Database](cardiac-atlas-database)
+- [speechto.text](https://github.com/trisaleung/cse110lab1/blob/main/index.md#speechtotext)
+- [Cardiac Atlas Database](https://github.com/trisaleung/cse110lab1/blob/main/index.md#cardiac-atlas-database)
 
 ## Projects
 
 ### speechto.text
 
-<img src="./speechtotech.png"/>
+<img src="./speechto.text.png"/>
 
-(Image can also be found [here](./speechtotech.png))
+(Image can also be found [here](./speechto.text.png))
 
 > speechto.text is a video conferencing web application that captions the conversation in the form of text messages. The user will enter their name, create/join a meeting, and speak into their mic to see their words displayed on the right. This allows the user to keep track of who is speaking, as well as read the captions at their own pace rather than the captions disappearing as the speaker continues to talk.
 
