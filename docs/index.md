@@ -18,6 +18,11 @@ Click to go to individual projects:
 
 The **devpost** can be found [here](https://devpost.com/software/speechto-tech).
 
+The features that I worked on are as listed.
+1. Figma design
+2. Front end code
+3. Passing information between pages
+
 ### Cardiac Atlas Database
 
 > The Cardiac Atlas Database is a database project with a web application that interfaces with heart DICOMs. This is primarily for the use of researchers.
