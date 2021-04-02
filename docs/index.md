@@ -21,7 +21,9 @@ The **devpost** can be found [here](https://devpost.com/software/speechto-tech).
 The features that I worked on are as listed.
 1. Figma design
 2. Front end code
-3. Passing information between pages
+   1. Home page
+   2. Video page
+   3. Profile page (prior to entry)
 
 ### Cardiac Atlas Database
 
